@@ -1,0 +1,7 @@
+//java project ignore folders and classes
+/.metadata/
+*/.classpath
+*/.project
+*/.settings/*
+*.class
+*/bin/*
